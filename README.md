@@ -1,6 +1,6 @@
 # Hyprland Gruvbox Dotfiles
 
-![Hyprland Gruvbox Theme](https://github.com/terminal-index/hyprland-dotfiles/assets/hyprland.png)
+![Hyprland Gruvbox Theme](https://raw.githubusercontent.com/terminal-index/hyprland-dotfiles/refs/heads/main/assets/hyprland.png)
 
 A comprehensive, aesthetic, and functional Hyprland configuration featuring a **Gruvbox Material** theme. These dotfiles are designed to be plug-and-play while offering high customization.
 
@@ -29,7 +29,7 @@ An installation script is provided to automate the setup process. It supports **
 
 1. **Run the one-line installer**:
    ```bash
-   bash <(curl -s https://raw.githubusercontent.com/terminal-index/hyprland-dots/main/install.sh)
+   bash <(curl -s https://raw.githubusercontent.com/terminal-index/hyprland-dotfiles/refs/heads/main/install.sh)
    ```
    
    This will clone the repository to `~/hyprland-dots` and start the installation script.
