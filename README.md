@@ -38,7 +38,7 @@ An installation script is provided to automate the setup process. It supports **
 
 If you prefer to clone manually:
    ```bash
-   git clone https://github.com/terminal-index/hyprland-dots.git
+   git clone https://github.com/terminal-index/hyprland-dotfiles.git
    cd hyprland-dots
    chmod +x install.sh
    ./install.sh
