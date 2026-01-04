@@ -1,0 +1,31 @@
+# NOTE: imv image viewer configuration (INI format)
+# INFO: See `man imv` for full option reference
+
+[options]
+
+
+background                = 32302f
+fullscreen                = false
+width                     = 1280
+height                    = 720
+initial_pan               = 50 50
+
+
+recursively               = true
+loop_input                = true
+list_files_at_exit        = false
+
+
+scaling_mode              = full
+slideshow_duration        = 0
+
+
+overlay                   = true
+overlay_font              = Hack:10
+overlay_text_color        = d4be98
+overlay_text_alpha        = ff
+overlay_background_color  = 252423
+overlay_background_alpha  = 99
+overlay_position_bottom   = false
+
+suppress_default_binds    = false

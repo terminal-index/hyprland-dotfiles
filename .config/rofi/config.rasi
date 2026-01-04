@@ -1,0 +1,5 @@
+configuration {
+    show-icons: true;
+    icon-theme: "Papirus-Dark"; /* or your preferred icon theme */
+}
+@theme "gruvbox-dark"
