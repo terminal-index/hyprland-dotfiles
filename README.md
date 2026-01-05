@@ -32,7 +32,7 @@ An installation script is provided to automate the setup process. It supports **
    bash <(curl -s https://raw.githubusercontent.com/terminal-index/hyprland-dotfiles/refs/heads/main/install.sh)
    ```
    
-   This will clone the repository to `~/hyprland-dots` and start the installation script.
+   This will clone the repository to `~/hyprland-dotfiles` and start the installation script.
 
 ### Manual Cloning
 
